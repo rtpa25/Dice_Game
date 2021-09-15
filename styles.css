@@ -1,0 +1,54 @@
+body {
+    background-color: #35353F;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color: #45C398;
+    font-family: 'Satisfy', cursive;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h4 {
+    color: #45C398;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+}
+
+.header {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.d1 {
+    position: relative;
+    left: 25%;
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+
+.d2 {
+    position: relative;
+    left: 34.29%;
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+
+.img {
+    width: 70%;
+}
+
+.footer {
+    font-size: 0.8rem;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10%;
+}
